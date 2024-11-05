@@ -1,0 +1,1 @@
+{"name":"Local: 1476B","url":"/home/droutsane/Desktop/CPtoMOON/Specialist Practice/1476B.cpp","tests":[{"id":1708413404744,"input":"2\n4 1\n20100 1 202 202\n3 100\n1 1 1\n","output":"99\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/droutsane/Desktop/CPtoMOON/Specialist Practice/1476B.cpp","group":"local","local":true}

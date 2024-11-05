@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/droutsane/Desktop/CPtoMOON/atcoder/dpcontest/A.cpp","tests":[{"id":1712568446735,"input":"3\n2 1 3\n2","output":"1"},{"id":1712568953347,"input":"4\n4 3 1 2\n7 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/droutsane/Desktop/CPtoMOON/atcoder/dpcontest/A.cpp","group":"local","local":true}

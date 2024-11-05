@@ -1,0 +1,1 @@
+{"name":"Local: 1490E","url":"/home/droutsane/Desktop/CPtoMOON/Specialist Practice/1490E.cpp","tests":[{"id":1708429572530,"input":"2\n4\n1 2 4 3\n5\n1 1 1 1 1\n","output":"3\n2 3 4 \n5\n1 2 3 4 5 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/droutsane/Desktop/CPtoMOON/Specialist Practice/1490E.cpp","group":"local","local":true}
